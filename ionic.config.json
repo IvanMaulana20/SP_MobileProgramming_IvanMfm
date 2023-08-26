@@ -1,0 +1,7 @@
+{
+  "name": "SpMobileProgramming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
